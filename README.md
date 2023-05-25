@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 <h3 align="center">I am a full stack developer for .NET.</h3>
-<img align="right" alt="Coding" width="100" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif%22%3E">
+<img align="right" alt="Coding" width="100" src="[https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif%22%3E](https://i.giphy.com/media/l2R0dtivMKiaVUSl2/giphy.webp)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ozan&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ozan" /> </p>
