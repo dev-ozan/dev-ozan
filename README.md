@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ozan&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ozan" /> </p>
 
-- 🌱 I’m currently learning **Frameworks , Frontend Tecnologies**
+- 🌱 .Net Core Mvc , Entity , NLayer projects. **
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-ozan?tab=repositories](https://github.com/dev-ozan?tab=repositories)
 
